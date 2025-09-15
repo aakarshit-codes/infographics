@@ -14,6 +14,13 @@ Small static web project demonstrating minimal, responsive infographics: a dual-
 ## Run locally (recommended)
 Open a terminal in the project root and run the Tailwind CLI (optional during development) and a static server.
 
+0) Install dependencies:
+
+```bash
+# from project root (zsh)
+npm i
+```
+
 1) Build Tailwind (watch mode - run if you edit `src/input.css`):
 
 ```bash
