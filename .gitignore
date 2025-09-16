@@ -12,10 +12,10 @@ build/
 .parcel-cache/
 *.local
 
-# Tailwind / generated CSS
-/src/output.css
-/output.css
-/.tailwind-cache/
+# # Tailwind / generated CSS
+# /src/output.css
+# /output.css
+# /.tailwind-cache/
 
 # Static server runtime files
 .env
